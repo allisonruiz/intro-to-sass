@@ -1,0 +1,22 @@
+  // scss variables! 
+  $primary-color: #d6fccf;
+  $secondary-color: #ffc5eb;
+  $fonts: Arial, Impact, Serif;
+
+  // basic page styling. Some of it needs compiling!
+
+  * {
+  box-sizing: border-box;
+  margin: 7;
+  padding: 0;
+}
+
+.hero-content {
+  background-color: $primary-color;
+  font-family: $fonts;
+  line-height: 1.5;
+  border-color: $secondary-color;
+  
+}
+
+ 
